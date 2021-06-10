@@ -67,21 +67,20 @@ education:
      
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+    - role: Technology Analyst
+      time: 2020 - Present
+      company: Infosys, Bangalore
+      details: |        
+          - Utilize Core Java, Java EE, Spring Boot , Spring REST, Data JPA to develop fully finance management systems for the efficient
+            maintenance of customer and shareholders and respective bank accounts.
+          - Enforce an innovative approach to improve the client's web reporting system using spring boot and latest technologies, which
+            effectively reduced the financial tracking analysis time by 50%.
+          - Supervise a team of 4+ junior java developers to ascertain the successful completion of the 13 key projects policies for a MDS
+            application for bank within budget and schedule.
+          - Collaborate closely with the leads, db team, testers and associated third parties to guarantee the full functionality and
+            performance of the website financial transactions and management applications.
+          -  Oversee back end phase of the development of the new Java-based vendor application system which migrated from mainframe
+            system for the financial services department of the Client Bank, from conceptualization and design to progress and deployment.         
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
