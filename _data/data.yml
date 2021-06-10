@@ -80,29 +80,25 @@ experiences:
           - Collaborate closely with the leads, db team, testers and associated third parties to guarantee the full functionality and
             performance of the website financial transactions and management applications.
           -  Oversee back end phase of the development of the new Java-based vendor application system which migrated from mainframe
-            system for the financial services department of the Client Bank, from conceptualization and design to progress and deployment.         
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+            system for the financial services department of the Client Bank, from conceptualization and design to progress and deployment.  
+           
+    - role: Associate Consultant
+      time: 2015 - 2020
+      company: Atos, Bangalore
+      details: |        
+          - Took part in the scheduled development meeting to recommend relevant system modifications and project improvements.
+          - Spearheaded the software product definition, requirements, analysis, and implementation for the new project designs.
+          - Innovated the excel import system which import client leave application data via an easyto-
+            use jsf graphical user interface which low cognitive load interface that is controlled by java excel custom library.
+          - Aided in overseeing the transition of the tradational API to Spring Rest that are running on a dockerized platform.
+          - Coordinated with the experienced Sytems Engineer and other professionals in the team in developingthe cost-efficient services
+            namely CRT(cost reduction tool), MRB(material review board), eApproval systems that successfully reduced the operating and
+            financily costs for the client amphenol ICC.
+          - Provided expert support in developing and implementing effective technical solutions that enhanced the system's performance
+            and subsequently boosted business efficiency.
+          - Involved in development and integrated testing and Interacting with client and gathering thier input and provided Support
+            functionalities and services.
+    
 projects:
     title: Projects
     intro: >
