@@ -57,66 +57,48 @@ career-profile:
       applications/systems to boost organizational efficiency.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+     - degree: Master of Computer Applications (MCA)
+      university: SV College of Engineering (Tirupathi), JNTU Anantapoor
+      time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+        
+    - degree: Bachelor of Science (B.Sc., Computer Science)
+      university: DR AER Degree & PG College, Sri Venkateswara University Tirupathi
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+     - role: Technology Analyst
+      time: 2020 - Present
+      company: Infosys, Bangalore
+      details: |        
+          - Utilize Core Java, Java EE, Spring Boot , Spring REST, Data JPA to develop fully finance management systems for the efficient
+            maintenance of customer and shareholders and respective bank accounts.
+          - Enforce an innovative approach to improve the client's web reporting system using spring boot and latest technologies, which
+            effectively reduced the financial tracking analysis time by 50%.
+          - Supervise a team of 4+ junior java developers to ascertain the successful completion of the 13 key projects policies for a MDS
+            application for bank within budget and schedule.
+          - Collaborate closely with the leads, db team, testers and associated third parties to guarantee the full functionality and
+            performance of the website financial transactions and management applications.
+          - Oversee back end phase of the development of the new Java-based vendor application system which migrated from mainframe
+            system for the financial services department of the Client Bank, from conceptualization and design to progress and deployment.
+    - role: Associate Consultant
+      time: 2015 - 2020
+      company: Atos, Bngalore
+      details: |       
+          - Took part in the scheduled development meeting to recommend relevant system modifications and project improvements. 
+          - Spearheaded the software product definition, requirements, analysis, and implementation for the new project designs. l
+          - Innovated the excel import system which import client leave application data via an easyto-
+            use jsf graphical user interface which low cognitive load interface that is controlled by java excel custom library
+          - Aided in overseeing the transition of the tradational API to Spring Rest that are running on a dockerized platform.
+          - Coordinated with the experienced Sytems Engineer and other professionals in the team in developingthe cost-efficient services
+            namely CRT(cost reduction tool), MRB(material review board), eApproval systems that successfully reduced the operating and
+            financily costs for the client amphenol ICC
+          - Provided expert support in developing and implementing effective technical solutions that enhanced the system's performance
+            and subsequently boosted business efficiency.
+          - Involved in development and integrated testing and Interacting with client and gathering thier input and provided Support
+            functionalities and services.
+
 projects:
     title: Projects
     intro: >
