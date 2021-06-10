@@ -57,15 +57,14 @@ career-profile:
       applications/systems to boost organizational efficiency.
 
 education:
-     - degree: Master of Computer Applications (MCA)
-      university: SV College of Engineering (Tirupathi), JNTU Anantapoor
-      time: 2012 - 2015
-      details: |
-        
-    - degree: Bachelor of Science (B.Sc., Computer Science)
-      university: DR AER Degree & PG College, Sri Venkateswara University Tirupathi
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+     
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
       time: 2007 - 2011
-      details: |
+     
 
 experiences:
      - role: Technology Analyst
