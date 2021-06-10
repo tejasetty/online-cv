@@ -49,12 +49,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      5 years of strong experience as a Java developer has exceptional development ability and excellent problem-solving skills and a
+      strong ability to work with minimal supervision. In-depth understanding of a java technologies like Java J2EE, Spring and hibernate
+      etc with a focus on delivering innovative business solutions. Highly experienced, solutions-oriented professional with remarkable
+      background in overseeing all aspects of the Software Development Life Cycle, from extensive analysis and design through coding,
+      execution and maintenance. Proficient in utilizing a wide variety of programs and tools to provide high-quality and cost-effective
+      applications/systems to boost organizational efficiency.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
