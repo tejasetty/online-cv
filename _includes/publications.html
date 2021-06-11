@@ -13,6 +13,9 @@
 
   {% for publication in certifications.certname %}
   <div class="item">   
+    <div>
+	 {{ publication.title | markdownify }}
+	</div>  
     <div class="publication-authors">{{ publication.authors }}</div>
   </div><!--//item-->
   {% endfor %}
