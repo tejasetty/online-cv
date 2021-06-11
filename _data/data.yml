@@ -98,7 +98,23 @@ experiences:
             and subsequently boosted business efficiency.
           - Involved in development and integrated testing and Interacting with client and gathering thier input and provided Support
             functionalities and services.
+
+certifications:
+    title: certifications
     
+    certname:
+      - title: "1Z0-803 Java SE 7 Programmer"        
+        authors: Oracle        
+
+      - title: "1Z0-051 Oracle Database 11g: SQL Fundamentals"        
+        authors: Oracle
+        
+      - title: "Infosys Certified Spring Professional"        
+        authors: Infosys
+      
+      - title: "Infosys Certified Spring REST Professional"        
+        authors: Infosys
+               
 skills:
     title: Skills &amp; Proficiency
 
