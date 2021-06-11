@@ -25,7 +25,13 @@ sidebar:
    # stack-overflow: # Number/Username, e.g. 123456/alandoe
    # codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-
+    
+    areasofexpertise:
+      - idiom: Back end development
+      - idiom: Scrum & Agile Methodologies
+      - idiom: Application Design & Development
+      - idiom: Continue Process Implementation      
+    
     languages:
       - idiom: Telugu
         level: Mother Tongue
