@@ -1,0 +1,19 @@
+{% assign areasofexpertise = site.data.data.sidebar.areasofexpertise %}
+{% if areasofexpertise %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    AREAS OF EXPERTISE
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for exptitle in areasofexpertise %}
+    <li>
+      {{ exptitle.idiom }}
+      <span class="lang-desc">({{ exptitle.level }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
+{% endif %}
