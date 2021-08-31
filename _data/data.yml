@@ -73,8 +73,14 @@ education:
      
 
 experiences:
+    - role: Senior System Analyst
+      time: 2021 - Present
+      company: IBM, Bangalore
+      details: |        
+          - Ibm rookie
+            
     - role: Technology Analyst
-      time: 2020 - Present
+      time: 2020 - 2021
       company: Infosys, Bangalore
       details: |        
           - Utilize Core Java, Java EE, Spring Boot , Spring REST, Data JPA to develop fully finance management systems for the efficient
